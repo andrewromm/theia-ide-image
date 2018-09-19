@@ -7,3 +7,4 @@ prodict
 simplech
 asimplech
 google2pandas
+pygsheets
